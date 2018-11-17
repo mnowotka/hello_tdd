@@ -1,7 +1,7 @@
 class Greeter {
 
     String getGreeting() {
-        return "Hello, World!";
+        throw new UnsupportedOperationException('Delete this line and write your own implementation');
     }
 
 }
